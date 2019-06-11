@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Gamer
+* Coder
+* White Hacker
+* Karate nerd
+* Father figure

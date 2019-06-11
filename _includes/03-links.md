@@ -1,2 +1,2 @@
-Github  : https://github.com/rasyadhs
-Twitter : https://twitter.com/jimmyrsyd
+[GitHub](http://github.com/rasyadhs)
+[Twitter](https://twitter.com/jimmyrsyd)
